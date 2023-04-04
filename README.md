@@ -1,1 +1,2 @@
-# file .exe trong folder dist.
+# .exe file in dist folder.
+## Just download the .exe file to run
